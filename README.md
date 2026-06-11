@@ -1,1 +1,1 @@
-# Student-Result-Management-system-Using-oop-in-java
+# Student-Result-Management-system
